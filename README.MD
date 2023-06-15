@@ -6,3 +6,4 @@
 * [Webinar 4](./webinar4/README.MD)
 * [Webinar 5](./webinar5/README.MD)
 * [Webinar 6](./webinar6/README.MD)
+* [Webinar 7](./webinar7/README.MD)
