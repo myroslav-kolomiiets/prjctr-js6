@@ -11,3 +11,4 @@
 * [Webinar 09](./webinar09/README.MD)
 * [Webinar 10](./webinar10/README.MD)
 * [Workshop todolist](./workshop-todolist/README.MD)
+* [workshop-calculator](./workshop-calculator/README.MD)
