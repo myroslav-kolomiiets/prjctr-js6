@@ -12,3 +12,4 @@
 * [Webinar 10](./webinar10/README.MD)
 * [Workshop todolist](./workshop-todolist/README.MD)
 * [workshop-calculator](./workshop-calculator/README.MD)
+* [thimbles-game](./thimbles-game/README.MD)
