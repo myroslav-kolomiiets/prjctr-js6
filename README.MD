@@ -16,3 +16,4 @@
 * [Webinar 14](./webinar14/README.MD)
 * [Webinar 15](./webinar15/README.MD)
 * [book-list-calculator](./workshop-book-list/README.MD)
+* [Webinar 17](./webinar17/README.MD)
