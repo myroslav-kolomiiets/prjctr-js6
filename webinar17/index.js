@@ -21,13 +21,21 @@
 
 // function outer() {
 //     function inner() {
-//         console.log('Hello!')
+//         console.log('Hello!') // 3
 //     };
-
-//     inner();
+//
+//     inner(); // 2
 // }
+//
+// outer(); // 1
 
-// outer();
+// -------
+// outer()
+// outer() inner()
+// outer() inner() console.log()
+// outer() inner()
+// outer()
+// -------
 
 /**
  * Приклад асинхронного коду і його стеку
@@ -35,13 +43,25 @@
 
 // function main() {
 //   setTimeout(function greet() {
-//     console.log('Hello!')
+//     console.log('Hello!') // 3
 //   }, 2000)
-
-//   console.log('Bye!');
+//
+//   console.log('Bye!'); // 2
 // }
+//
+// main(); // 1
 
-// main();
+// ------
+// main()
+// main() setTimeout
+// main() console.log()
+// main()
+// ------
+// 2 s
+// greet()
+// greet() console.log()
+// greet()
+// ------
 
 /**
  * Цикл подій
