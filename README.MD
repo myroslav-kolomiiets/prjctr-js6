@@ -19,3 +19,4 @@
 * [Webinar 17](./webinar17/README.MD)
 * [Webinar 18](./webinar18/README.MD)
 * [Webinar 19](./webinar19/README.MD)
+* [workshop-github-search](./workshop-github-search/README.MD)
