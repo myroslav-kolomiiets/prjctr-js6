@@ -22,4 +22,3 @@
 * [20. Workshop-github-search](./20_workshop_github_search/README.MD)
 * [21. workshop-weather-app](./21_workshop_weather_app/README.MD)
 * [22. Iterators and generators ](./22_iterators_generators/README.MD)
-* 
