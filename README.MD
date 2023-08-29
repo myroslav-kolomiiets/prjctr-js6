@@ -24,3 +24,4 @@
 * [22. Iterators and generators](./22_iterators_generators/README.MD)
 * [23. Map, Set_and destructuring](./23_map_set_destructuring/README.MD)
 * [24._modules_1](./24_modules_1/README.MD)
+* [24._Workshop to do list modules](./25_workshop_to_do_list_modules/README.MD)
